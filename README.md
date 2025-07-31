@@ -1,8 +1,8 @@
-# DashboardBI_GameSales
+# 📊Dashboard Game Sales
 
-Halo selamat datang di repo ini 
+Hello, welcome to this repository! 🌻
 
-Repo ini berisi dashboard analisis data penjualan game. Pembuatan dashboard menggunakan aplikasi PowerBI yang dimana aku pertama kali membuat dashboard menggunakan aplikasi ini 😅. Selain itu, karena saya sedikit ada basic dalam figma aku mencoba mengintegrasikan dengan design background figma agar terlihat lebih minimalis, clean dan game vibe
+This repo contains a game sales data analysis dashboard created using Power BI. This is my first experience creating a dashboard with this application😅. In addition, with a little knowledge of Figma, I tried to integrate the background design from Figma to give it a minimalist, clean, and game-like look.
 
 Dataset yang dipakai bersumber dari [Kaggle](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)
 

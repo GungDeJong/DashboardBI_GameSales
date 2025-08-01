@@ -7,7 +7,7 @@ This repo contains a game sales data analysis dashboard created using Power BI. 
 The dataset used is sourced from [Kaggle](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)
 
 ## 🎮Tentang Dataset:
-![Dataset]([Asset\image.png](https://github.com/GungDeJong/DashboardBI_GameSales/blob/main/Asset/image.png))
+![Dataset](https://github.com/GungDeJong/DashboardBI_GameSales/blob/main/Asset/image.png)
 This dataset contains video game sales data across different platforms, genres, and regions, making it valuable for various analytical and business use cases.
 #### **Fitur Dataset:**
 
